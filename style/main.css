@@ -98,7 +98,8 @@ a:hover {
 
 footer .left {
 	width: 50%;
-	text-align: left;
+	text-align: left; 
+}
 
 
 	footer .right {
@@ -118,4 +119,8 @@ footer .left li:last-child {
 
 footer .right li:last-child {
 	margin-right: 0;
+}
+
+.col.img {
+margin-bottom:50px;
 }
